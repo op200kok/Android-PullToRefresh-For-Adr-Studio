@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\exploded-aar\Android-PullToRefresh\PullToRefreshListFragment\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aaa43c3ba22d45d13155ad6551bc421e5e7ee79a">
+        <dex dex="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\classes-89ef148ef4201de624f8aef4188cc06f0a94b38a.jar" />
+    </item>
+    <item
+        jar="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\exploded-aar\Android-PullToRefresh\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bbbab820e62447956878eaf68045da3213f2e2ec">
+        <dex dex="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\classes-03c88ba8dd7c2573747f3fa173f64b1713dffdfc.jar" />
+    </item>
+    <item
+        jar="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-2304495b5e20ff0e1da1215226e562856ed37068.jar" />
+    </item>
+    <item
+        jar="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\exploded-aar\Android-PullToRefresh\PullToRefreshViewPager\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d87c8fdc5f2f79056f764b249bf8f30609c1bc55">
+        <dex dex="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\classes-2a95051148fa4d95811585c5d0bf5d3ccbb15fb5.jar" />
+    </item>
+    <item
+        jar="D:\Java_android\eclipse_android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0542b724611aab8022d44c757fa371f25af573eb.jar" />
+    </item>
+    <item
+        jar="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\GITPROJECT\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\classes-b031792f83e11f69b933a736dbdc7920e2a90fe2.jar" />
+    </item>
+
+</items>
